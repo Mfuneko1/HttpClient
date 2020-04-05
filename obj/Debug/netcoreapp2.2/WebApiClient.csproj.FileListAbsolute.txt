@@ -1,0 +1,11 @@
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\bin\Debug\netcoreapp2.2\WebApiClient.deps.json
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\bin\Debug\netcoreapp2.2\WebApiClient.runtimeconfig.json
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\bin\Debug\netcoreapp2.2\WebApiClient.runtimeconfig.dev.json
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\bin\Debug\netcoreapp2.2\WebApiClient.dll
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\bin\Debug\netcoreapp2.2\WebApiClient.pdb
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.csprojAssemblyReference.cache
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.AssemblyInfo.cs
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.dll
+C:\Users\Mfuneko.April\Videos\Practice_Projects\RestClient\WebApiClient\obj\Debug\netcoreapp2.2\WebApiClient.pdb
