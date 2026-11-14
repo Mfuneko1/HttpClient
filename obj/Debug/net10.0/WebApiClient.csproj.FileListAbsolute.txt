@@ -1,0 +1,15 @@
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/bin/Debug/net10.0/WebApiClient
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/bin/Debug/net10.0/WebApiClient.deps.json
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/bin/Debug/net10.0/WebApiClient.runtimeconfig.json
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/bin/Debug/net10.0/WebApiClient.dll
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/bin/Debug/net10.0/WebApiClient.pdb
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.AssemblyInfoInputs.cache
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.AssemblyInfo.cs
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.csproj.CoreCompileInputs.cache
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.sourcelink.json
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.dll
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/refint/WebApiClient.dll
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.pdb
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/WebApiClient.genruntimeconfig.cache
+/Users/mfunekoapril/Documents/HttpClient-UpdateProj/HttpClient/obj/Debug/net10.0/ref/WebApiClient.dll

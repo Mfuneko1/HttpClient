@@ -38,7 +38,6 @@ namespace WebAPIClient
                 new MediaTypeWithQualityHeaderValue("application/vnd.github.v3+json"));
             client.DefaultRequestHeaders.Add("User-Agent", ".NET Foundation Repository Reporter");
 
-            //Starts a task to make Web-requests.
             var streamTask = client.GetStreamAsync("https://api.github.com/orgs/dotnet/repos");
             var repositories = await JsonSerializer.DeserializeAsync<List<Repository>>(await streamTask);
 
